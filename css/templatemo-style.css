@@ -582,6 +582,7 @@ h3.profile-title {
   position: relative;
 }
 .project-item img {
+  height: 400px;
   width: 100%;
   display: block;
 }
